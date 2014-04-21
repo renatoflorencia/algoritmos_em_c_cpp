@@ -1,10 +1,10 @@
-Este repositorio contem todos os códigos implementados em aula e estudos de caso para fins academicos e são de uso livre...
+Este repositório contem todos os códigos implementados em aula e estudos de caso para fins acadêmicos e são open source.
 
-Nas pastas aula de 1 a 9 estão listados codigos para basear conhecimentos da sintaxe do C++
+Nas pastas "Aula" numeradas de 1 a 9 estão listados códigos de estudo da algoritmia básica implementados em C++ sem uso POO utilizando apessa programação procedural.
 
-Na pasta outros estão contido codigos de estudo de caso para melhor fixar o funcionamento de certas mecanicas no C++
+Na pasta outros estão contidos códigos de programas diversos desenvolvidos como estudos não diritos para melhor fixar o funcionamento de certas mecânicas das linguagem C/C++
 
-Todos os codigos estão implementados em C++ e foram testados usando Dev-C++ como IDE.
+Todos os códigos  foram testados usando GNU para compilação e Dev-C++ como IDE.
 
-Atualizaçãoes e futuras modificações seram deitas sempre que possivel...
+Atualizações e futuras modificações serão feitas sempre que possível...
 
